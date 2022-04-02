@@ -5,8 +5,8 @@
         "Renamer Bot",
         "Mongo DB"
     ],
-    "repository": "https://github.com/lntechnical2/RENAMER_BOT",
-    "success_url": "https://telegram.dog/lntechnical",
+    "repository": "https://github.com/CrazeBots/rename-bot",
+    "success_url": "https://telegram.dog/CrazeBots",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org ",
